@@ -7,8 +7,9 @@ Welcome to my GitHub profile! I'm passionate about leveraging technology to make
 ## 🔍 About Me
 
 - 🎓 **Education**:  
-  - 🌱 Currently pursuing **Computer Engineering** at **AAiT**  
-  - 🌱 Studying **Software Engineering** at **ALX**  
+  - 🌱 Undergraduate degree in **Computer Engineering** at **AAiT/CTBE**  
+  - 🌱 Studying **Software Engineering** at **ALX**
+  - 🌱 Studying **ML,DE and AI** at **Kifiya**  
 - 💡 **Interests**:  
   - Computers, Football, Artificial Intelligence, Machine Learning, and Data Science  
 - 🌍 **Collaboration Goals**:  
